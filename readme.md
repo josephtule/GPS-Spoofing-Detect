@@ -1,6 +1,6 @@
 # GNSS/GPS Spoofing Detection
 
-The write-up for this project is contained in "GPS Spoofing Detection Finalpdf.pdf".
+The write-up for this project is contained in "GPS Spoofing Detection Finalpdf.pdf" and contains the motivation and background research done on the topic. Explanation and derivation of the algorithm can be found in the final write-up as well or in the research papers referenced in the write-up.
 
 # Data
 ## TEXBAT
